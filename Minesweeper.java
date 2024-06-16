@@ -215,7 +215,7 @@ public class Minesweeper{
 			System.out.println("Time: "+newTime+" seconds");	
 			ScoreFileHandler.saveScore(newTime);
 
-			Display.text("Mines Cleared! You Won."); 
+			Display.text("Mines Cleared!You Won."); 
 			JOptionPane.showMessageDialog(display.frame, "Congratulation! You won.\nTime: "+newTime+" seconds."); 
 		
 		}
