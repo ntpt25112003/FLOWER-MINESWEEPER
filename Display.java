@@ -122,13 +122,13 @@ public class Display{
             public void actionPerformed(ActionEvent e) {
 				switch(Level.getLevelInNumber()){						
 					case 1:
-						JOptionPane.showMessageDialog(frame,ScoreFileHandler.toStringScore("EasyLevelTimeRecords.txt")); 
+						JOptionPane.showMessageDialog(frame,Score.toStringScore("EasyLevelTimeRecords.txt")); 
 						break;											
 					case 2:
-						JOptionPane.showMessageDialog(frame,ScoreFileHandler.toStringScore("MediumLevelTimeRecords.txt"));
+						JOptionPane.showMessageDialog(frame,Score.toStringScore("MediumLevelTimeRecords.txt"));
 						break;
 					case 3:
-						JOptionPane.showMessageDialog(frame,ScoreFileHandler.toStringScore("HardLevelTimeRecords.txt"));
+						JOptionPane.showMessageDialog(frame,Score.toStringScore("HardLevelTimeRecords.txt"));
 						break;
 					default:
 						JOptionPane.showMessageDialog(frame,"No recording of completion times for the custom games! :) ");

@@ -213,7 +213,7 @@ public class Minesweeper{
 			
 			long newTime = time.getTimeDifferenceInSeconds();
 			System.out.println("Time: "+newTime+" seconds");	
-			ScoreFileHandler.saveScore(newTime);
+			Score.saveScore(newTime);
 
 			Display.text("Mines Cleared!You Won."); 
 			JOptionPane.showMessageDialog(display.frame, "Congratulation! You won.\nTime: "+newTime+" seconds."); 
