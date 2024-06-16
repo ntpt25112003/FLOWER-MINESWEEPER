@@ -228,7 +228,7 @@ public class Minesweeper{
 		
 		gameOver = true;
 		Display.text("Game Over! You Lose.");
-		JOptionPane.showMessageDialog(display.frame, "Oops! You lose"); 
+		JOptionPane.showMessageDialog(display.frame, "Oh no, you lose! Let's play again"); 
 	}
 
 	private void textUpdate(){																				

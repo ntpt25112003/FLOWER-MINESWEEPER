@@ -42,7 +42,6 @@ public class Display{
 
 		textLabel.setFont(new Font("Monospaced", Font.BOLD | Font.ITALIC, getTextSize())); 
 		textLabel.setHorizontalAlignment(JLabel.CENTER);			
-
 		textLabel.setOpaque(true);		
 		textLabel.setBorder(BorderFactory.createCompoundBorder(
         		BorderFactory.createLineBorder(Color.GRAY, 3), 
@@ -114,7 +113,6 @@ public class Display{
 			}
 		});
 	}
-
 
 	public void rankingsButton(){				
 		rankingsButton.addActionListener(new ActionListener() {
