@@ -1,3 +1,8 @@
+/* 
+Name: Nguyễn Thị Phương Thảo
+Student ID: ITITIU21314
+Subject code: IT013IU Group 02
+*/
 import javax.sound.sampled.*;
 import java.io.File;
 import java.io.IOException;

@@ -1,3 +1,8 @@
+/* 
+Name: Nguyễn Thị Phương Thảo
+Student ID: ITITIU21314
+Subject code: IT013IU Group 02
+*/
 public class Level{
 	private static int numRows =7;
 	private static int numCols =8;

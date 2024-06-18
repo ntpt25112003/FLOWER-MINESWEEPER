@@ -1,3 +1,8 @@
+/* 
+Name: Nguyễn Thị Phương Thảo
+Student ID: ITITIU21314
+Subject code: IT013IU Group 02
+*/
 import java.awt.*;
 import java.awt.event.*;
 import java.util.ArrayList;
