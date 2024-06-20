@@ -9,7 +9,7 @@ import java.awt.event.*;
 
 public class Display{					
 	
-	public JFrame frame = new JFrame("Minesweeper");			
+	public JFrame frame = new JFrame("Flower-Minesweeper");			
 
 	public JButton levelButton = new JButton("   Level   ");	
 	public JButton customLevelButton = new JButton("   Custom   "); 
