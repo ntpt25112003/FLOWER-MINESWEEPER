@@ -2,6 +2,7 @@
 Name: Nguyễn Thị Phương Thảo
 Student ID: ITITIU21314
 Subject code: IT013IU Group 02
+Purpose: Levels in the game: easy, medium, hard
 */
 public class Level{
 	private static int numRows =7;

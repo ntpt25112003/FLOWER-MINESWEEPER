@@ -2,6 +2,7 @@
 Name: Nguyễn Thị Phương Thảo
 Student ID: ITITIU21314
 Subject code: IT013IU Group 02
+Purpose: Manage sound effects in the game
 */
 import javax.sound.sampled.*;
 import java.io.File;

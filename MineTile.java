@@ -2,6 +2,7 @@
 Name: Nguyễn Thị Phương Thảo
 Student ID: ITITIU21314
 Subject code: IT013IU Group 02
+Purpose: Provide a specialized button component that can be used in the construction of a Minesweeper game.
 */
 import javax.swing.*;
 
