@@ -2,7 +2,7 @@
 Name: Nguyễn Thị Phương Thảo
 Student ID: ITITIU21314
 Subject code: IT013IU Group 02
-Purpose: Record scores through each turn
+Purpose: Manage scores recorded during game play
 */
 import java.io.*;
 import java.util.ArrayList;
