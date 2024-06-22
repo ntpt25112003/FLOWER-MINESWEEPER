@@ -8,5 +8,6 @@ Open the 'Application.java' file
 
 Press F5 to run the game
 
+Presentation video: <https://www.youtube.com/watch?v=UEVl3kvj-dM>
 ### UML diagram: 
 <img src="/uml.png" alt="uml">
