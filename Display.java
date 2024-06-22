@@ -7,7 +7,6 @@ Purpose: Manage game windows, buttons and labels, game features
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-
 public class Display{					
 	
 	public JFrame frame = new JFrame("Minesweeper");			
