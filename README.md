@@ -9,3 +9,4 @@ Open the 'Application.java' file
 Press F5 to run the game
 
 ### UML diagram: 
+<img src="/uml.png" alt="uml">
